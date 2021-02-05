@@ -6,7 +6,7 @@ variables:
  - name: blueprintsPath
    value: '.\samples\'
  - name: blueprintName
-   value: '101-boilerplate'
+   value: 'Test-BP02'
  - name: subscriptionId
    value: 'fa025977-92c2-4909-be47-9c1fc3e5e713' # / Contoso IT - SH360 - Prod
 
